@@ -19,8 +19,6 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 
-![Tech Animation](https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif)  
-
 ### 📱 **Mobile Development**  
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)  
@@ -55,3 +53,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quzkhanh/)  
 
 🔥 **“Code smart, optimize better, and build apps that matter.”** 🚀  
+
+![Tech Animation](https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif)  
